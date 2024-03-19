@@ -394,7 +394,7 @@ ul li {
   justify-content: space-between
 }
 .message-me{
-  display: ;
+
   width: 50%;
   margin-top: 20%;
 }
@@ -600,8 +600,7 @@ textarea {
     display: none;
   }
 
-  .close-nav {
-  }
+
 
   .hero-btn {
     display: flex;
@@ -829,12 +828,7 @@ textarea {
     width: 10%;
     padding: 3rem;
   }
-  .proj-ctn {
-  }
 
-  #contact {
-    padding: ;
-  }
   #contact h1,
   #contact p {
     margin-right: 5rem;
@@ -862,14 +856,12 @@ textarea {
     padding: 4rem;
   }
 
-  .proj-ctn {
-  }
+
   .card {
     align-items: center;
     gap: 3rem;
   }
-  .card img {
-  }
+
   .proj-desc {
     padding: 0;
     margin-top: -7rem;
@@ -878,9 +870,6 @@ textarea {
     font-size: 3rem;
   }
 
-  #contact {
-    padding: ;
-  }
   #contact h1,
   #contact p {
     margin-right: 5rem;
